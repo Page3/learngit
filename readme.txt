@@ -1,2 +1,2 @@
-Git is a haha version control system.
-Git is a haha free software.
+Git is a haha hehe version control system.
+Git is a haha hehe free software.
